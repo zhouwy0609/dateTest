@@ -1,2 +1,2 @@
 # dateTest
-数字天数转换成日期，计算两个时间相隔的天数
+数字天数转换成日期，计算两个时间相隔的天数,使用通常的Date，SimpleDateFormat方式以及Calendar方式
